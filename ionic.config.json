@@ -1,0 +1,7 @@
+{
+  "name": "callApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
